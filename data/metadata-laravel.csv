@@ -42,7 +42,7 @@
 "heshanh/gofax","User",1,"Dead",15
 "invertedx/routetraffic-laravel-route-lising","User",1,"Dead",2
 "irazasyed/jwt-auth-guard","User",3,"Zombie",69
-"jorisvanw/medialibrary","User",2,"Alive",72
+"jorisvanw/medialibrary","User",2,"Alive",69
 "josh-taylor/migrations-generator","User",1,"Dead",5
 "josh-taylor/simple-sitemap","User",1,"Dead",0
 "jpmurray/laravel-rrule","User",1,"Dead",2
@@ -74,7 +74,7 @@
 "musonza/chat","User",3,"Alive",67
 "nexmo/nexmo-laravel","Organization",3,"Zombie",62
 "nikaia/translation-sheet","Organization",3,"Alive",59
-"otherguy/laravel-error-handler","User",2,"Dead",44
+"otherguy/laravel-error-handler","User",2,"Dead",37
 "padosoft/laravel-affiliate-network","Organization",2,"Alive",59
 "padosoft/laravel-google-structured-data-testing-tool","Organization",2,"Dead",34
 "padosoft/laravel-request","Organization",1,"Dead",34
