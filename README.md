@@ -1,4 +1,4 @@
-This repository provides the replication package for the paper titled *An Empirical Study on the Survival Rate of GitHub Projects* sent to the *Mining Software Repositories 2022* conference, currently under review.
+This repository provides the replication package for the paper titled *An Empirical Study on the Survival Rate of GitHub Projects* accepted in the *Mining Software Repositories 2022* conference.
 
 # Contents
 
